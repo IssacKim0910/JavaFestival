@@ -21,3 +21,11 @@ J
 src/javaFestival/ex08.java,5\0\5046825258860a7e5d97f42ba511784833551cb9
 M
 src/javaFestival/bonus01.java,9\7\976521621b5b5ff95622c58e78cc90593c5bfd49
+J
+src/javaFestival/ex09.java,6\3\63237ce6f25d17370ba9a635f46546c8d31d14d1
+]
+-.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
+S
+#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
+Å
+Q.idea/sonarlint/securityhotspotstore/6/3/63237ce6f25d17370ba9a635f46546c8d31d14d1,5\5\5507f17a82ed659ef5d29bc9f94c658186c262f8
