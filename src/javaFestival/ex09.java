@@ -6,7 +6,6 @@ public class ex09 {
             
             System.out.println((char)i);
         }
-        
-        
+        System.out.println(2&10);
     }
 }

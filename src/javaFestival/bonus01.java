@@ -13,11 +13,12 @@ public class bonus01 {
             int b = sc.nextInt();
 
             int result = a - b;
-            System.out.print("결과>> " + result);
-            System.out.println();
             if (a == 0 && b == 0) {
                 break;
             }
+            System.out.print("결과>> " + result);
+            System.out.println();
+
         }
     }
 }
