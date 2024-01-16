@@ -81,3 +81,5 @@ J
 src/javaFestival/ex20.java,4/4/4468505b26355283ba5da7435b147508b4810626
 J
 src/javaFestival/ex21.java,3/2/32725294a618b6e42991f87dce3eae4da435e182
+J
+src/javaFestival/ex18.java,b/c/bc9fb6d2f6b916c53fdccd3c6af02adb97b0c902
