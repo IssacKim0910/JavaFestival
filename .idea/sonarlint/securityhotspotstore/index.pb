@@ -35,8 +35,6 @@ J
 src/javaFestival/ex11.java,2/9/29312c3d9b9ff380e5f79f5f8b28cf116e61d320
 J
 src/javaFestival/ex12.java,4/8/48ffb068480562c64d12c30748a4b9bf8857f39c
-=
-src/ex13.java,6/4/6431194fb12545030acf5b21981e06972a941b5b
 J
 src/javaFestival/ex13.java,1/9/195f544bc31e340c59e39c068b43490f325d73f6
 M
@@ -71,8 +69,6 @@ Q.idea/sonarlint/securityhotspotstore/c/f/cfda097d4fb7be04224ebd0a970ded51469c27
 Q.idea/sonarlint/securityhotspotstore/5/4/54d4074a90d5625feae0a0c2b832e18475cb8a5f,9/2/92be7e435b1c5b9ec06ba23e3a74ec597d06226e
 Å
 Q.idea/sonarlint/securityhotspotstore/e/3/e361ef6f97d558703a47d72cfbcfc033fef3a36a,7/f/7fb7a992ac6249903f50ee4fa205004e9e967cce
-Å
-Q.idea/sonarlint/securityhotspotstore/6/4/6431194fb12545030acf5b21981e06972a941b5b,2/0/20c18b60406bc26b17fa3735b95b395631a0e8b4
 M
 src/javaFestival/bonus04.java,d/0/d038cee7dda91368e907a3ec518c12c3c8ddc08e
 J
@@ -81,3 +77,14 @@ J
 src/javaFestival/ex20.java,4/4/4468505b26355283ba5da7435b147508b4810626
 J
 src/javaFestival/ex21.java,3/2/32725294a618b6e42991f87dce3eae4da435e182
+:
+
+.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
+J
+src/javaFestival/ex22.java,f/3/f398afa7df24136ed5afcb30b2e80bd34cb44a38
+J
+src/javaFestival/ex23.java,8/3/83a9168245bd84e9f16990f724a16f05d39c442d
+M
+src/javaFestival/bonus05.java,6/d/6d01e39e976202738124e1ee17d1add2e8cb5393
+J
+src/javaFestival/ex24.java,7/9/795a8ccbd4afaa4260d5b1ce58755f4916831aea

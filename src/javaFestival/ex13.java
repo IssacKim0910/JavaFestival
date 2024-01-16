@@ -16,6 +16,7 @@ public class ex13 {
         result = score.split(",");
 
         for (int i = 0; i < result.length; i++) {
+
             switch (result[i]) {
                 case "A":
                     a++;
