@@ -23,8 +23,9 @@ public class ex24 {
         }
 
         for (int i = 0; i < n; i++) {
-            if(n2[i] != 0)
-            System.out.print(n2[i]);
+            if(n2[i] != 0) {
+                System.out.print(n2[i]);
+            }
 
         }
     }
