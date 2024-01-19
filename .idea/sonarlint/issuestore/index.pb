@@ -94,3 +94,11 @@ J
 src/javaFestival/ex26.java,1/8/18073c70b71738a7f725f259be9d6d7731e4985c
 J
 src/javaFestival/ex27.java,c/7/c77642b1d659b930c45ee1819735f4f93e4a984b
+M
+src/javaFestival/bonus06.java,9/3/93940146dbe148423e3b4629cdfda1b7221916d2
+J
+src/javaFestival/ex28.java,2/e/2edf5384f220cbbb6dbe1a5bfdcae81569b40891
+J
+src/javaFestival/ex29.java,6/b/6b32db8dab3efd8cd81a8d449afea51e8ae2572e
+J
+src/javaFestival/ex30.java,c/5/c5f6ad013b35a9f365182f0cbfe1c49a15889dd3
